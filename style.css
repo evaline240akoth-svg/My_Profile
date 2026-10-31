@@ -1,0 +1,46 @@
+```css
+body {
+    background-color: lavender;
+    font-family: Arial, sans-serif;
+    text-align: center;
+    padding: 30px;
+}
+
+.profile {
+    background-color: white;
+    width: 300px;
+    margin: 30px auto;
+    padding: 25px;
+    border: 2px solid purple;
+    border-radius: 20px;
+}
+
+img {
+    width: 120px;
+    height: 120px;
+    border-radius: 50%;
+}
+
+h1 {
+    color: purple;
+    font-size: 25px;
+}
+
+p {
+    color: #444444;
+    font-size: 16px;
+}
+
+button {
+    background-color: purple;
+    color: white;
+    padding: 12px 20px;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: darkviolet;
+}
+```
